@@ -28,6 +28,7 @@ const Wrapper = styled.aside`
   background: hsl(0deg, 0%, 90%);
   padding: 24px 8px;
   position: absolute;
+  z-index: 2;
   top: 0;
   right: 0;
   bottom: 0;

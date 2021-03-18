@@ -24,6 +24,8 @@ const MainContent = styled.main`
   padding: 64px;
   padding-right: 304px;
   display: flex;
+  position: relative;
+  z-index: 1;
   justify-content: center;
 `;
 
