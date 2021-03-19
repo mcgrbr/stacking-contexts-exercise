@@ -12,7 +12,7 @@ function HelpButton() {
 
 const Wrapper = styled.button`
   position: fixed;
-  z-index: 3;
+  z-index: 4;
   right: 16px;
   bottom: 16px;
   color: white;
